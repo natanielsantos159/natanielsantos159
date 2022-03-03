@@ -4,8 +4,8 @@
 </p>
 <br/>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanielsantos159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielsantos159&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanielsantos159&title_color=d12971&icon_color=d12971&text_color=ffeedb&bg_color=3c0b2b&border_color=ffeedb&show_icons=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielsantos159&layout=compact&langs_count=7&title_color=d12971&icon_color=d12971&text_color=ffeedb&bg_color=3c0b2b&border_color=ffeedb&show_icons=truer"/>
 </div>
 
 ## Linguagens e ferramentas:
