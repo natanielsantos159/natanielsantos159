@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b02360&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Nataniel!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
 
-<p>Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou estudando Desenvolvimento Web(Full Stack) na Trybe. Sempre fui apaixonado por tecnologia, já tenho um bom conhecimento em front-end e estou dando os meus primeiros passos em back-end!
+<p>Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou estudando Desenvolvimento Web(Full Stack) na <a href="https://www.betrybe.com/">Trybe</a>. Sempre fui apaixonado por tecnologia, já tenho um bom conhecimento em front-end e estou dando os meus primeiros passos em back-end!
 </p>
 <br/>
 <div align="center">
