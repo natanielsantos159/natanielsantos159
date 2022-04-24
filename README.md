@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b02360&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Nataniel!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4db5ff&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Nataniel!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
 
 <p>Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou estudando Desenvolvimento Web(Full Stack) na <a href="https://www.betrybe.com/">Trybe</a>. Sempre fui apaixonado por tecnologia, já tenho um bom conhecimento em front-end e estou dando os meus primeiros passos em back-end!
 </p>
 <br/>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanielsantos159&title_color=d12971&icon_color=d12971&text_color=ffeedb&bg_color=3c0b2b&border_color=ffeedb&show_icons=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielsantos159&layout=compact&langs_count=7&title_color=d12971&icon_color=d12971&text_color=ffeedb&bg_color=3c0b2b&border_color=ffeedb&show_icons=truer"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanielsantos159&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielsantos159&layout=compact&langs_count=7&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
 </div>
 
 ## Linguagens e ferramentas:
