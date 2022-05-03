@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4db5ff&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Nataniel!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
 
 <p>
-Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou finalizando o curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e sou formado em Análise e Desenvolvimento de Sistemas. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas.
-Nos últimos 12 meses tenho aperfeiçoado minhas capacidades, tanto Hard Skills quanto Soft Skills. Ao longo de 3 módulos(Fundamentos, Front-end e Back-end), densenvolvi mais de 32 projetos na Trybe até o momento. Estou finalizando o módulo de Back-end e entrando no módulo de Ciência da Computação e estou em busca da minha primeira oportunidade como desenvolvedor Full Stack Jr.
+Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou finalizando o curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e sou formado em Análise e Desenvolvimento de Sistemas. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Estou em busca da minha primeira oportunidade como desenvolvedor Full Stack Jr.
 </p>
 <br/>
 <div align="center">
