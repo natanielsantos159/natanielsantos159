@@ -3,7 +3,7 @@
 <p>
 Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente estou finalizando o curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e sou formado em Análise e Desenvolvimento de Sistemas. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Estou em busca da minha primeira oportunidade como desenvolvedor Full Stack Jr.
 </p>
-<h2>Meu <a href="https://natanielsantos159.github.io/"><i>Portfólio</i></a>!</h2>
+<h2>Meu <a href="https://natanielsantos159.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
 <br/>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanielsantos159&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
