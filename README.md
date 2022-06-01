@@ -32,3 +32,6 @@ Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente e
   </div>
 </body>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanielsantos159" alt="Profile Views" /> </p>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=indiezudo&count=1)
+
