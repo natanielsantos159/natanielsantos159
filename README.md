@@ -51,6 +51,3 @@ Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Atualmente e
       <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
     </a>
   </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natanielsantos159" alt="Profile Views" /> </p>
-
