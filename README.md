@@ -1,6 +1,6 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=4db5ff&width=1109&height=113&lines=%7B+Hey%2C+me+chamo+Nataniel!%E2%9D%A4%EF%B8%8F+%7D;%7B+Bem+vindo(a)+ao+meu+perfil+:D+%7D;%7B+dá+uma+olhada+no+meu+portfólio%E2%9D%A4%EF%B8%8F+%7D">
 <p>
-Me chamo Nataniel Santos, tenho 20 anos e moro em Santa inês - MA. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe e sou formado em Análise e Desenvolvimento de Sistemas. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
+Me chamo Nataniel Santos, tenho 21 anos e moro em Santa inês - MA. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe e sou formado em Análise e Desenvolvimento de Sistemas. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
 </p>
 <h2>Meu <a href="https://natanielsantos159.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
 <br/>
