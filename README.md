@@ -1,4 +1,3 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=4db5ff&width=1109&height=113&lines=%7B+Hey%2C+me+chamo+Nataniel!%E2%9D%A4%EF%B8%8F+%7D;%7B+Bem+vindo(a)+ao+meu+perfil+:D+%7D;%7B+dá+uma+olhada+no+meu+portfólio%E2%9D%A4%EF%B8%8F+%7D">
 <h2>Meu <a href="https://natanielsantos159.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
 <br/>
 <div align="center">
